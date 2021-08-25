@@ -49,7 +49,7 @@ Melanesia: Papua New Guinea, Solomon Islands, Vanuatu, Fiji
 
 Polynesia: Tuvalu, Samoa, Tonga, Niue, Cook Islands
 
-North America (23 countries)
+ ### North America (23 countries)
 
 North America: Canada, USA
 
@@ -59,7 +59,7 @@ Caribbean: Bahamas, Cuba, Jamaica, Haiti, Dominican Republic, Saint Kitts and Ne
 
 Grenada, Trinidad and Tobago
 
-South America (12 countries)
+### South America (12 countries)
 
 North: Colombia, Venezuela, Guyana, Suriname
 
