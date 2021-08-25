@@ -1,5 +1,5 @@
 # All country list
-Asia (48 countries)
+### Asia (48 countries)
 
 East Asia: People's Republic of China, Japan, South Korea, North Korea, Mongolia
 
@@ -13,7 +13,7 @@ West Asia: Afghanistan, Iraq, Iran, Syria, Jordan, Lebanon, Israel, Palestine, S
 
 Azerbaijan, Turkey, Cyprus
 
-Europe (44 countries)
+### Europe (44 countries)
 
 Northern Europe: Iceland, Denmark, Norway, Sweden, Finland
 
@@ -27,7 +27,7 @@ Southern Europe: Portugal, Spain, Andorra, Italy, San Marino, Vatican, Malta, Sl
 
 Greece, Romania
 
-Africa (54 countries)
+### Africa (54 countries)
 
 North Africa: Egypt, Libya, Tunisia, Algeria, Morocco
 
@@ -39,7 +39,7 @@ East Africa: Djibouti, Somalia, Eritrea, Ethiopia, Sultan, South Sultan, Kenya, 
 
 South Africa: Angola, Zambia, Malawi, Mozambique, Namibia, Botswana, Zimbabwe, South Africa, Swaziland, Lesotho, Madagascar, Mauritius, Comoros
 
-Oceania (16 countries)
+### Oceania (16 countries)
 
 Australia, New Zealand
 
